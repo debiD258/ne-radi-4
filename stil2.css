@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"
+	font-size: 14px;
+	line-height: 18px;
+	width: 600px;
+	background-color:darkseagreen;
+		
+}
+h1, h2 {
+	
+	background-color:antiquewhite
+}
+span {color:gold}
+a:link {
+	color: black;
+	background-color: white;
+	padding: 5px;
+	line-height: 25px;
+	border:1px solid #000000;
+}
+a:hover{
+	background-color: darkgray;
+}
+img {
+	height: 200px;
+}
+
